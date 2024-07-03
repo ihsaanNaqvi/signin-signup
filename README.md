@@ -1,3 +1,27 @@
+how to create project in react ?
+1- create folder in desktop or anywhere name it like signin signup  then open it in visual studio code  
+2-then open integrated terminal then run the command  "npx  create-react-app signin-signup"
+3-now project is created run command "npm start" it will take you to browser with local host url 
+
+4 - remove the default project files like from app.js specific code from function keep only div 
+
+5 now create component inside of jsx 
+file You can also open the Extensions menu by pressing:
+Ctrl + Shift + X on Windows or Linux.
+Command + Shift + X on macOS.
+Type react snippet and select the ES7+ React/Redux/React-Native snippets extension.
+
+6 - write Rafce in jsx file and double tab , you will get component 
+7- now do code according you your requirements 
+
+
+now project is ready you can run it 
+ 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
